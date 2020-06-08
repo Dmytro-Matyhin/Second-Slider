@@ -1,0 +1,10 @@
+.section-slider {
+  margin-top: 50px;
+}
+@media (min-width: 640px) {
+  .section-slider {
+    display: flex;
+    justify-content: center;
+    margin: 50px 0;
+  }
+}
